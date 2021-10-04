@@ -1,4 +1,4 @@
-# Recepy - Aplication.
+# Recepy - Application.
 
 ## ¿Que es Recepy-application?.
 
@@ -18,6 +18,7 @@ Una vez termines de inspecionar el codigo, puedes cerrar el servidor con el sigu
 
 ```bash
 ctrl + c
+# despues
 y
 ```
 
