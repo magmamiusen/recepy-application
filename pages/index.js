@@ -11,6 +11,7 @@ const Home = () => {
       </Head>
 
       <main className={styles.main}>
+        Juan Pablo Gutierrez Gutierrez
       </main>
     </div>
   );

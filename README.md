@@ -21,7 +21,7 @@ Una vez termines de inspecionar el codigo, puedes cerrar el servidor con el sigu
 ```bash
 ctrl + c
 # despues
-y
+s
 ```
 
 ## Tecnologias Usadas.
@@ -31,7 +31,7 @@ En Recepy-application hemos usado algunas de las tecnologias mas modernas del de
 - Next.js [https://nextjs.org/](https://nextjs.org/)
 - Auth0 [https://auth0.com/](https://auth0.com/)
 - Vercel [https://vercel.com/](https://vercel.com/)
-- GitHun [https://github.com/](https://github.com/)
+- GitHub [https://github.com/](https://github.com/)
 - Firebase [https://firebase.google.com/](https://firebase.google.com/)
 - Motion Framer [https://www.framer.com/motion/](https://www.framer.com/motion/)
 
