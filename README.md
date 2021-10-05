@@ -1,4 +1,6 @@
-# Recepy - Aplication.
+# Recepy - Application.
+
+Puesdes visitar recepy en [https://recepy-application.vercel.app/](https://recepy-application.vercel.app/)
 
 ## ¿Que es Recepy-application?.
 
@@ -8,7 +10,7 @@ Si descargas el codigo de recepy para explorar el codigo, puedes correr los sigu
 
 ```bash
 npm run dev
-# or
+# o
 yarn dev
 ```
 
@@ -18,6 +20,7 @@ Una vez termines de inspecionar el codigo, puedes cerrar el servidor con el sigu
 
 ```bash
 ctrl + c
+# despues
 y
 ```
 
