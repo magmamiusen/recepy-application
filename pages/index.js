@@ -29,7 +29,7 @@ const Home = () => {
   };
 
   return (
-    <Auth0Provider domain="dev-dou8wmxc.us.auth0.com" clientId="8izHB80eLmjNtrOmvOsDzT9oPMNbIZOg" redirectUri="https://recepy-application-hlkkx50dn-magmamiusen.vercel.ap" >
+    <Auth0Provider domain="dev-dou8wmxc.us.auth0.com" clientId="8izHB80eLmjNtrOmvOsDzT9oPMNbIZOg" redirectUri="https://recepy-application.vercel.app/" >
       <div className={styles.container} onLoad={download} >
         {/*Contenedor de metadatos de la pagina*/}
         <Head>
